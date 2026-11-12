@@ -1,4 +1,4 @@
-/* Ejercicio 1 de la relacion 1
+/* Ejercicio 1 de la relacion 1: Hola mundo, tipos básicos y comentarios
     archivo: 1hola-mundo.dart
     fecha creación: septiembre 2026
     autor: Francisco Herrera */

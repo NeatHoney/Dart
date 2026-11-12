@@ -1,5 +1,9 @@
-// Ejercicio 20: Versión del ejercicio 11 que importa la librería en lugar de declarar las funciones
-// (las funciones están en 20temperaturas_lib.dart, en la misma carpeta)
+/* Ejercicio 20 de la relacion 2: Versión del ejercicio 11 importando la librería
+    archivo: 20temperaturas-dart.dart
+    fecha creación: septiembre 2026
+    autor: Francisco Herrera */
+
+// Las funciones no se declaran aquí: están en 20temperaturas_lib.dart (misma carpeta)
 
 import '20temperaturas_lib.dart';
 

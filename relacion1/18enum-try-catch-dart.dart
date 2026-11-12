@@ -1,3 +1,8 @@
+/* Ejercicio 18 de la relacion 1: Gestión de errores con try-catch-finally
+    archivo: 18enum-try-catch-dart.dart
+    fecha creación: septiembre 2026
+    autor: Francisco Herrera */
+
 enum Color { rojo, naranja, amarillo, verde, azul, anil, violeta }
 
 void main() {

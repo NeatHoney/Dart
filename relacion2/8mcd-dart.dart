@@ -1,4 +1,7 @@
-// Ejercicio 8: MCD de dos enteros positivos con el algoritmo de Euclides (función con retorno)
+/* Ejercicio 8 de la relacion 2: MCD con el algoritmo de Euclides
+    archivo: 8mcd-dart.dart
+    fecha creación: septiembre 2026
+    autor: Francisco Herrera */
 
 int mcd(int a, int b) {
   // mcd(a, b) = mcd(b, a % b) hasta que el resto sea 0

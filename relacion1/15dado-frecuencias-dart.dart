@@ -1,3 +1,8 @@
+/* Ejercicio 15 de la relacion 1: Frecuencias de un dado (normal y trucado)
+    archivo: 15dado-frecuencias-dart.dart
+    fecha creación: septiembre 2026
+    autor: Francisco Herrera */
+
 import 'dart:math';
 
 void main() {

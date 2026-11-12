@@ -1,4 +1,7 @@
-// Ejercicio 5: Igual que el ejercicio 2, pero la función DEVUELVE la fecha y hora al punto de llamada
+/* Ejercicio 5 de la relacion 2: Función que devuelve la fecha y hora desplazada
+    archivo: 5fecha-hora-retorno-dart.dart
+    fecha creación: septiembre 2026
+    autor: Francisco Herrera */
 
 DateTime fechaDesplazada(int horas) {
   return DateTime.now().add(Duration(hours: horas));

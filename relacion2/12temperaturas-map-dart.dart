@@ -1,4 +1,7 @@
-// Ejercicio 12: Temperaturas en un Map<día, temperatura>; cada función muestra su resultado por pantalla
+/* Ejercicio 12 de la relacion 2: Máxima, mínima y media con un Map
+    archivo: 12temperaturas-map-dart.dart
+    fecha creación: septiembre 2026
+    autor: Francisco Herrera */
 
 void mostrarMaxima(Map<String, double> temps) {
   String dia = temps.keys.first;

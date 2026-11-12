@@ -1,4 +1,7 @@
-// Ejercicio 17: Cociente y resto (versión RECURSIVA del ejercicio 9)
+/* Ejercicio 17 de la relacion 2: Cociente y resto (recursivo)
+    archivo: 17cociente-resto-recursivo-dart.dart
+    fecha creación: septiembre 2026
+    autor: Francisco Herrera */
 
 int cociente(int a, int b) {
   if (a < b) return 0; // caso base

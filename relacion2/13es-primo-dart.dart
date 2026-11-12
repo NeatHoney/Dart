@@ -1,4 +1,7 @@
-// Ejercicio 13: Función esPrimo(int n) que devuelve true/false buscando divisores
+/* Ejercicio 13 de la relacion 2: Función esPrimo
+    archivo: 13es-primo-dart.dart
+    fecha creación: septiembre 2026
+    autor: Francisco Herrera */
 
 bool esPrimo(int n) {
   if (n < 2) return false;

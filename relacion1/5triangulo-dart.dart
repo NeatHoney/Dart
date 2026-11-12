@@ -1,3 +1,8 @@
+/* Ejercicio 5 de la relacion 1: Tipo de triángulo según sus lados
+    archivo: 5triangulo-dart.dart
+    fecha creación: septiembre 2026
+    autor: Francisco Herrera */
+
 void main() {
   double lado1 = 5.0;
   double lado2 = 5.0;

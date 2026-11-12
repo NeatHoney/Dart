@@ -1,4 +1,7 @@
-// Ejercicio 19: Lista de los números primos entre 1 y n, reutilizando esPrimo del ejercicio 13
+/* Ejercicio 19 de la relacion 2: Lista de números primos hasta n
+    archivo: 19primos-hasta-n-dart.dart
+    fecha creación: septiembre 2026
+    autor: Francisco Herrera */
 
 bool esPrimo(int n) {
   if (n < 2) return false;

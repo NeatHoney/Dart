@@ -1,4 +1,7 @@
-// Ejercicio 10: Conversión de un entero positivo a binario (String) y, después, a cualquier base hasta 8
+/* Ejercicio 10 de la relacion 2: Conversión a binario y a otras bases
+    archivo: 10binario-dart.dart
+    fecha creación: septiembre 2026
+    autor: Francisco Herrera */
 
 // Versión final: base 2 por defecto, válida hasta la base 8
 String aBase(int n, [int base = 2]) {

@@ -1,4 +1,7 @@
-// Ejercicio 2: Función con un parámetro (horas hacia adelante o atrás) que muestra la fecha/hora resultante
+/* Ejercicio 2 de la relacion 2: Función con parámetro: fecha y hora desplazada
+    archivo: 2fecha-hora-desplazada-dart.dart
+    fecha creación: septiembre 2026
+    autor: Francisco Herrera */
 
 void mostrarFechaHora(int horas) {
   DateTime ahora = DateTime.now();

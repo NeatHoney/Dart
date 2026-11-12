@@ -1,3 +1,8 @@
+/* Ejercicio 2 de la relacion 1: Tipos de datos built-in, operadores y parseo
+    archivo: 2tipos-dart.dart
+    fecha creación: septiembre 2026
+    autor: Francisco Herrera */
+
 void main() {
   // Tipos básicos
   String nombre = 'Fran';

@@ -1,4 +1,7 @@
-// Ejercicio 11: Funciones que reciben una lista de temperaturas y devuelven máxima, mínima y media
+/* Ejercicio 11 de la relacion 2: Máxima, mínima y media de una lista de temperaturas
+    archivo: 11temperaturas-dart.dart
+    fecha creación: septiembre 2026
+    autor: Francisco Herrera */
 
 double maxima(List<double> temps) {
   double m = temps.first;

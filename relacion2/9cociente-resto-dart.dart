@@ -1,5 +1,10 @@
-// Ejercicio 9: Dos funciones, una calcula el cociente y la otra el resto de la división
-// entera mediante restas sucesivas (idea del algoritmo de Euclides)
+/* Ejercicio 9 de la relacion 2: Cociente y resto con el algoritmo de Euclides
+    archivo: 9cociente-resto-dart.dart
+    fecha creación: septiembre 2026
+    autor: Francisco Herrera */
+
+// Dos funciones: una calcula el cociente y la otra el resto de la división entera
+// mediante restas sucesivas (idea del algoritmo de Euclides)
 
 int cociente(int a, int b) {
   int cont = 0;

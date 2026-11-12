@@ -1,4 +1,7 @@
-// Ejercicio 18: Lista inicializada con los n primeros términos de la serie de Fibonacci
+/* Ejercicio 18 de la relacion 2: Serie de Fibonacci en una lista
+    archivo: 18fibonacci-dart.dart
+    fecha creación: septiembre 2026
+    autor: Francisco Herrera */
 
 List<int> fibonacci(int n) {
   List<int> serie = [];

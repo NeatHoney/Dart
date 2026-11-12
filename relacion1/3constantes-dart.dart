@@ -1,3 +1,8 @@
+/* Ejercicio 3 de la relacion 1: Constantes: const y final
+    archivo: 3constantes-dart.dart
+    fecha creación: septiembre 2026
+    autor: Francisco Herrera */
+
 void main() {
   // Constante pi declarada con const
   const double pi = 3.14159;

@@ -1,3 +1,8 @@
+/* Ejercicio 6 de la relacion 1: Calculadora con operador por consola
+    archivo: 6calculadora-dart.dart
+    fecha creación: septiembre 2026
+    autor: Francisco Herrera */
+
 import 'dart:io';
 
 void main() {

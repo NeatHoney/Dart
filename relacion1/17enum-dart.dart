@@ -1,3 +1,8 @@
+/* Ejercicio 17 de la relacion 1: Enum de colores y excepción con byName
+    archivo: 17enum-dart.dart
+    fecha creación: septiembre 2026
+    autor: Francisco Herrera */
+
 enum Color { rojo, naranja, amarillo, verde, azul, anil, violeta }
 
 void main() {

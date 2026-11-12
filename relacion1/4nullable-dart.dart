@@ -1,3 +1,8 @@
+/* Ejercicio 4 de la relacion 1: Variables nullable
+    archivo: 4nullable-dart.dart
+    fecha creación: septiembre 2026
+    autor: Francisco Herrera */
+
 void main() {
   // Una variable nullable se declara añadiendo ? al tipo.
   // Esto indica que, además de valores de ese tipo, puede contener null.

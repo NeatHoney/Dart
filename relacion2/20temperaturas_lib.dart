@@ -1,4 +1,7 @@
-// Ejercicio 20: Librería con las funciones del ejercicio 11 (máxima, mínima y media)
+/* Ejercicio 20 de la relacion 2: Librería de funciones de temperaturas (máxima, mínima y media)
+    archivo: 20temperaturas_lib.dart
+    fecha creación: septiembre 2026
+    autor: Francisco Herrera */
 
 double maxima(List<double> temps) {
   double m = temps.first;

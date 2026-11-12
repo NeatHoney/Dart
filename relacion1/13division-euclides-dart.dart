@@ -1,3 +1,8 @@
+/* Ejercicio 13 de la relacion 1: Cociente y resto con el algoritmo de Euclides
+    archivo: 13division-euclides-dart.dart
+    fecha creación: septiembre 2026
+    autor: Francisco Herrera */
+
 void main() {
   int dividendo = 47;
   int divisor = 5;

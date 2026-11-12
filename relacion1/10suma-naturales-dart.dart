@@ -1,3 +1,8 @@
+/* Ejercicio 10 de la relacion 1: Suma de los n primeros números naturales
+    archivo: 10suma-naturales-dart.dart
+    fecha creación: septiembre 2026
+    autor: Francisco Herrera */
+
 void main() {
   int n = 100;
   int suma = 0;

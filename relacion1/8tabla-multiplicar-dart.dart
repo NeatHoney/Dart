@@ -1,3 +1,8 @@
+/* Ejercicio 8 de la relacion 1: Tabla de multiplicar con entrada por consola
+    archivo: 8tabla-multiplicar-dart.dart
+    fecha creación: septiembre 2026
+    autor: Francisco Herrera */
+
 import 'dart:io';
 
 void main() {

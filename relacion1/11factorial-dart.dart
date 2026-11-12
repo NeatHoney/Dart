@@ -1,3 +1,8 @@
+/* Ejercicio 11 de la relacion 1: Factorial de un número
+    archivo: 11factorial-dart.dart
+    fecha creación: septiembre 2026
+    autor: Francisco Herrera */
+
 void main() {
   int n = 10;
 

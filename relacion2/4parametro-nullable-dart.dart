@@ -1,4 +1,7 @@
-// Ejercicio 4: Función con parámetros posicionales, uno de ellos nullable (apellidos), sin valor devuelto
+/* Ejercicio 4 de la relacion 2: Parámetros posicionales con un parámetro nullable
+    archivo: 4parametro-nullable-dart.dart
+    fecha creación: septiembre 2026
+    autor: Francisco Herrera */
 
 // [String? apellidos] es posicional opcional y admite null
 void mostrarEmpleado(String nombre, [String? apellidos]) {

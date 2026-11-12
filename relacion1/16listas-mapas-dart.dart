@@ -1,3 +1,8 @@
+/* Ejercicio 16 de la relacion 1: Listas y mapas con forEach
+    archivo: 16listas-mapas-dart.dart
+    fecha creación: septiembre 2026
+    autor: Francisco Herrera */
+
 void main() {
   List<String> dias = ['lunes', 'martes', 'miércoles', 'jueves', 'viernes'];
   print('Días laborables: $dias');

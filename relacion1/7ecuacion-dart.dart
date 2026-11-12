@@ -1,3 +1,8 @@
+/* Ejercicio 7 de la relacion 1: Raíces de una ecuación de segundo grado
+    archivo: 7ecuacion-dart.dart
+    fecha creación: septiembre 2026
+    autor: Francisco Herrera */
+
 import 'dart:math';
 
 void main() {

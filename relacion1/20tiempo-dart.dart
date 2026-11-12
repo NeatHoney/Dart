@@ -1,3 +1,8 @@
+/* Ejercicio 20 de la relacion 1: Estadísticas del tiempo con un Map
+    archivo: 20tiempo-dart.dart
+    fecha creación: septiembre 2026
+    autor: Francisco Herrera */
+
 void main() {
   Map<String, double> maximas = {
     'lunes': 24.5,
